@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e10302e1a187c04cb80e611b715ded4, type: 3}
+  m_Name: DrosophilaResearch
+  m_EditorClassIdentifier: 
+  Texts:
+  - Our experiments aimed to identify genes involved in the development
+  - of Drosophila melanogaster embryos.
+  - the fruit fly embryos develop extremely rapidly, which makes them perfect for
+    research.
+  - Wieschaus and I have identified and classified 15 genes that instruct cells to
+    begin forming the fly
+  - developing a detailed understanding of how an embryo's shape is determined by
+    genes
+  - That understanding had major implications for human reproduction, as well
+  Text_Duration:
+  - 3
+  - 2
+  - 4
+  - 4
+  - 4
+  - 4
+  Text_Intervals: 0.2
